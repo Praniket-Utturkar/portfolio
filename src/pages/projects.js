@@ -9,7 +9,7 @@ import project1 from "../../public/images/projects/crypto-screener-cover-image.j
 import project2 from "../../public/images/projects/DigiNotes.png";
 import project3 from "../../public/images/projects/Green-Grocery-Store.png";
 import project4 from "../../public/images/projects/Ecommerce.png";
-import project5 from "../../public/images/projects/Shopmart-Admin -Dashboard.png";
+import project5 from "../../public/images/projects/Shopmart-Admin-Dashboard.png";
 import project6 from "../../public/images/projects/speechtotextgenerator.png";
 import project7 from "../../public/images/projects/Weather-website.png";
 import project8 from "../../public/images/projects/Tolist.png";
