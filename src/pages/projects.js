@@ -145,7 +145,7 @@ const Projects = () => {
             title="ShopMart Admin Dashboard"
             img={project5}
             summary="It is admin Panel which includes one Dashboard, 3 Pages, 4 Apps, and 7 fully functional charts.It is developed using React.js and Syncfusion - UI Component Suite"
-            link="https://github.com/Praniket-Utturkar/Admin_Dashboard"
+            link="https://admin-dashboard-sigma-seven-48.vercel.app/"
             github="https://github.com/Praniket-Utturkar/Admin_Dashboard"
             type="ReactJS, Syncfusion"
             />
