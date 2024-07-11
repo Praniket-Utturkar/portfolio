@@ -176,7 +176,7 @@ const Projects = () => {
             title="Weather Website"
             img={project7}
             summary="This website shows the day, date and time and current temperature in °C of Pune City, Maharashtra, India.It is developed using HTML, CSS, JavaScript and Node.js"
-            link="https://github.com/Praniket-Utturkar/Weather_Website"
+            link="https://weather-website-6e1k.onrender.com/"
             github="https://github.com/Praniket-Utturkar/Weather_Website"
             type="HTML, CSS, JavaScript,Node.js"
             /> 
