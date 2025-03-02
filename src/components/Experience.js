@@ -48,12 +48,18 @@ const Experience = () => {
             md:w-[2px] md:left-[30px] xs:left-[20px]
             '/>
             <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
+               <Details 
+                position="Python/AI Developer Intern" company="Tacticone"
+                companyLink="https://www.tacticone.co/"
+                time="15th Jan 2025 - Present"  address="Pune, Maharashtra, India | Onsite"
+               work=" Developing AI based full stack web application using CrewAI Framework, FastAPI, Next.js, and Supabase (PostgreSQL).Enhancing SEO strategies by leveraging AI agents within a full-stack AI-powered web application (Goosebump AI) to help clients analyze and optimize their SEO rankings."
+                />
                 <Details 
                 position="ReactJS Summer Intern" company="Celebal Technologies"
                 companyLink="https://celebaltech.com/"
-                time="May 2024-Present"  address="Jaipur, Rajasthan, India | Remote"
-               work=" Working on various ReactJS and MERN stack projects. Working on E-Commerce Store Website handling the stripe payments ,customer orders and receipt generation through email."
-                />
+                time="20th May 2024 - 20th July 2024"  address="Jaipur, Rajasthan, India | Remote"
+               work=" •	Developed and launched a comprehensive E-Commerce Store Website using ReactJS and the MERN stack.Integrated secure payment method (Stripe payments), leading to a significant increase in successful transactions. Optimized database queries with Mongoose for sorting and filtering, reducing query response time significantly. Automated email invoice generation and reset password emails, enhancing user engagement effectively."
+                />  
                 <Details 
                 position="Web Developer Intern" company="Oasis Infobyte"
                 companyLink="https://oasisinfobyte.com/"
