@@ -58,7 +58,7 @@ const Experience = () => {
                 position="ReactJS Summer Intern" company="Celebal Technologies"
                 companyLink="https://celebaltech.com/"
                 time="20th May 2024 - 20th July 2024"  address="Jaipur, Rajasthan, India | Remote"
-               work=" •	Developed and launched a comprehensive E-Commerce Store Website using ReactJS and the MERN stack.Integrated secure payment method (Stripe payments), leading to a significant increase in successful transactions. Optimized database queries with Mongoose for sorting and filtering, reducing query response time significantly. Automated email invoice generation and reset password emails, enhancing user engagement effectively."
+               work="                   Developed and launched a comprehensive E-Commerce Store Website using ReactJS and the MERN stack.Integrated secure payment method (Stripe payments), leading to a significant increase in successful transactions. Optimized database queries with Mongoose for sorting and filtering, reducing query response time significantly. Automated email invoice generation and reset password emails, enhancing user engagement effectively."
                 />  
                 <Details 
                 position="Web Developer Intern" company="Oasis Infobyte"
