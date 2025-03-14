@@ -13,6 +13,8 @@ import project5 from "../../public/images/projects/Shopmart-Admin-Dashboard.png"
 import project6 from "../../public/images/projects/speechtotextgenerator.png";
 import project7 from "../../public/images/projects/Weather-website.png";
 import project8 from "../../public/images/projects/Tolist.png";
+import project9 from "../../public/images/projects/Beat-Cancer.png";
+import project10 from "../../public/images/projects/Chatbot.png";
 import {motion} from "framer-motion"
 import TransitionEffect from '@/components/TransitionEffect'
 
@@ -107,7 +109,7 @@ const Projects = () => {
     <div className='grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0 '>
         <div className='col-span-12'>
             <FeaturedProject
-            title="E-Commerce Store"
+            title="ShopSavvy – E-Commerce Store"
             img={project4}
             summary="It is dynamic E Commerce Website developed using ReactJS, ExpressJS, NodeJS, MongoDB with Stripe Payment Integration and Admin Control Panel,Order Receipt Generation through email using NodeMailer,amazing product search filters and many more"
             link="https://ecommerce-gold-chi-50.vercel.app/"
@@ -145,7 +147,7 @@ const Projects = () => {
             title="ShopMart Admin Dashboard"
             img={project5}
             summary="It is admin Panel which includes one Dashboard, 3 Pages, 4 Apps, and 7 fully functional charts.It is developed using React.js and Syncfusion - UI Component Suite"
-            link="https://admin-dashboard-sigma-seven-48.vercel.app/"
+            link="https://github.com/Praniket-Utturkar/Admin_Dashboard"
             github="https://github.com/Praniket-Utturkar/Admin_Dashboard"
             type="ReactJS, Syncfusion"
             />
@@ -162,25 +164,25 @@ const Projects = () => {
         </div>
         <div className='col-span-6 sm:col-span-12'>
         <Project
-            title="Speech to Text Generator"
-            img={project6}
-            summary="This website converts speech from the microphone to text with copy to clipboard function using Clipboard API.It is developed using React.js."
-            link="https://github.com/Praniket-Utturkar/SpeechToTextGenerator"
-            github="https://github.com/Praniket-Utturkar/SpeechToTextGenerator"
-            type="ReactJS"
+            title="ChatBot – Virtual Car Showroom Assistant "
+            img={project10}
+            summary=" It is an intelligent virtual assistant integrated into the car dealership’s website. This innovative solution enhances customer experience and facilitates seamless communication between visitors and the dealership’s team, optimizing the car buying process. "
+            link="https://github.com/Praniket-Utturkar/Chatbot"
+            github="https://github.com/Praniket-Utturkar/Chatbot"
+            type=" HTML, CSS, Bootstrap, JSON, J-Query, Python, Flask "
             /> 
-        </div>
-        <div className='col-span-6 sm:col-span-12'>
-
+            </div>
+            <div className='col-span-6 sm:col-span-12'>
         <Project
-            title="Weather Website"
-            img={project7}
-            summary="This website shows the day, date and time and current temperature in °C of Pune City, Maharashtra, India.It is developed using HTML, CSS, JavaScript and Node.js"
-            link="https://weather-website-6e1k.onrender.com/"
-            github="https://github.com/Praniket-Utturkar/Weather_Website"
-            type="HTML, CSS, JavaScript,Node.js"
+            title="BeatCancer – AI-Powered Cancer Treatment Planner "
+            img={project9}
+            summary="It is AI Cancer Care Assistant which provides an easy and efficient way to craft personalized cancer care using AI. It interacts with the Gemini AI to analyze and generate detailed treatment plans based on patient data and medical records in the form of Kanban Board."
+            link="https://github.com/Praniket-Utturkar/"
+            github="https://github.com/Praniket-Utturkar/"
+            type=" React.js, Tailwind CSS , Gemini API, Neon(PostgreSQL Database) "
             /> 
-        </div>
+            </div>
+        
         <div className='col-span-6 sm:col-span-12'>
         <Project
             title="To-Do List"
@@ -191,6 +193,29 @@ const Projects = () => {
             type="ReactJS"
             /> 
             </div>
+            <div className='col-span-6 sm:col-span-12'>
+
+            <Project
+                title="Weather Website"
+                img={project7}
+                summary="This website shows the day, date and time and current temperature in °C of Pune City, Maharashtra, India.It is developed using HTML, CSS, JavaScript and Node.js"
+                link="https://github.com/Praniket-Utturkar/Weather_Website"
+                github="https://github.com/Praniket-Utturkar/Weather_Website"
+                type="HTML, CSS, JavaScript,Node.js"
+                /> 
+            </div>
+        
+        <div className='col-span-6 sm:col-span-12'>
+        <Project
+            title="Speech to Text Generator"
+            img={project6}
+            summary="This website converts speech from the microphone to text with copy to clipboard function using Clipboard API.It is developed using React.js."
+            link="https://github.com/Praniket-Utturkar/SpeechToTextGenerator"
+            github="https://github.com/Praniket-Utturkar/SpeechToTextGenerator"
+            type="ReactJS"
+            /> 
+        </div>
+        
         
         
     </div>  
