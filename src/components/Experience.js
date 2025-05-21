@@ -51,8 +51,8 @@ const Experience = () => {
                <Details 
                 position="Python/AI Developer Intern" company="Tacticone"
                 companyLink="https://www.tacticone.co/"
-                time="15th Jan 2025 - Present"  address="Pune, Maharashtra, India | Onsite"
-               work=" Developing AI based full stack web application using CrewAI Framework, FastAPI, Next.js, and Supabase (PostgreSQL).Enhancing SEO strategies by leveraging AI agents within a full-stack AI-powered web application (Goosebump AI) to help clients analyze and optimize their SEO rankings."
+                time="15th Jan 2025 - 15th May 2025"  address="Pune, Maharashtra, India | Onsite"
+               work=" Developed AI based full stack web application using CrewAI Framework, FastAPI, Next.js, and Supabase (PostgreSQL).Enhanced SEO strategies by creating AI agents within a full-stack AI-powered web application (Erlin AI) to help clients analyze and optimize their SEO rankings."
                 />
                 <Details 
                 position="ReactJS Summer Intern" company="Celebal Technologies"
