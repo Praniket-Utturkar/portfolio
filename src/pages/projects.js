@@ -120,15 +120,14 @@ const Projects = () => {
        
         <div className='col-span-6 sm:col-span-12'>
         <Project
-            title="Green Grocery Store - An E-Commerce Website"
-            img={project3}
-            summary="It is the online grocery selling website.It is the static website developed using HTML and CSS. 
-"
-            link="https://github.com/Praniket-Utturkar/Green-Grocery-Store/tree/master"
-            github="https://github.com/Praniket-Utturkar/Green-Grocery-Store/tree/master"
-            type="HTML , CSS"
-            />
-        </div>
+            title="BeatCancer – AI-Powered Cancer Treatment Planner "
+            img={project9}
+            summary="It is AI Cancer Care Assistant which provides an easy and efficient way to craft personalized cancer care using AI. It interacts with the Gemini AI to analyze and generate detailed treatment plans based on patient data and medical records in the form of Kanban Board."
+            link="https://github.com/Praniket-Utturkar/beat-cancer"
+            github="https://github.com/Praniket-Utturkar/beat-cancer"
+            type=" React.js, Tailwind CSS , Gemini API, Neon(PostgreSQL Database) "
+            /> 
+            </div>
 
         {/* <div className='col-span-12'>
         <FeaturedProject
@@ -174,14 +173,15 @@ const Projects = () => {
             </div>
             <div className='col-span-6 sm:col-span-12'>
         <Project
-            title="BeatCancer – AI-Powered Cancer Treatment Planner "
-            img={project9}
-            summary="It is AI Cancer Care Assistant which provides an easy and efficient way to craft personalized cancer care using AI. It interacts with the Gemini AI to analyze and generate detailed treatment plans based on patient data and medical records in the form of Kanban Board."
-            link="https://github.com/Praniket-Utturkar/"
-            github="https://github.com/Praniket-Utturkar/"
-            type=" React.js, Tailwind CSS , Gemini API, Neon(PostgreSQL Database) "
-            /> 
-            </div>
+            title="Green Grocery Store - An E-Commerce Website"
+            img={project3}
+            summary="It is the online grocery selling website.It is the static website developed using HTML and CSS. 
+"
+            link="https://github.com/Praniket-Utturkar/Green-Grocery-Store/tree/master"
+            github="https://github.com/Praniket-Utturkar/Green-Grocery-Store/tree/master"
+            type="HTML , CSS"
+            />
+        </div>
         
         <div className='col-span-6 sm:col-span-12'>
         <Project
