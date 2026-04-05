@@ -50,9 +50,9 @@ return (
             <div className='grid w-full grid-cols-8 gap-16 sm:gap-8'>
                 <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
                     <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
-                    <p className='font-medium'>Hi, I am Praniket Utturkar, a web developer with a passion for creating beautiful,
+                    <p className='font-medium'>Hi, I am Praniket Utturkar, an AI Engineer with a passion for creating beautiful,
                         functional,
-                        and user-centered digital experiences. With 4 years of experience in the field. I am always
+                        and user-centered digital experiences. With 5 years of experience in the field. I am always
                         looking for
                         new and innovative ways to bring my clients&apos; visions to life.</p>
                     <p className='my-4 font-medium'> I believe that design is about more than just making things look pretty – it&apos;s about solving
@@ -87,7 +87,7 @@ return (
                     </div>
                     <div className='flex flex-col items-end justify-center xl:items-center'>
                         <span className='inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl'>
-                        <AnimatedNumbers value={4} />+
+                        <AnimatedNumbers value={5} />+
                         </span>
                         <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm'>years of experience</h2>
                     </div>

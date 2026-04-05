@@ -48,6 +48,12 @@ const Experience = () => {
             md:w-[2px] md:left-[30px] xs:left-[20px]
             '/>
             <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
+                <Details 
+                position="Associate AI Engineer" company="HumanizeIQ"
+                companyLink="https://www.linkedin.com/company/humanizeiq/"
+                time="2nd June 2025 - Present"  address="Hazlet, New Jersey, United States | Remote"
+               work=""
+                />
                <Details 
                 position="Python/AI Developer Intern" company="Tacticone"
                 companyLink="https://www.tacticone.co/"
