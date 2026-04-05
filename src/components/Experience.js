@@ -52,7 +52,7 @@ const Experience = () => {
                 position="Associate AI Engineer" company="HumanizeIQ"
                 companyLink="https://www.linkedin.com/company/humanizeiq/"
                 time="2nd June 2025 - Present"  address="Hazlet, New Jersey, United States | Remote"
-               work=""
+               work="Developing Craft Studio, an AI-driven no-code platform that automates end-to-end SDLC, enabling users to convert requirements/user stories into production-ready full-stack applications within an hour.Integrated Firebase Authentication, admin functionalities, and Stripe payments across HumanizeIQ products/web applications, ensuring secure user access and seamless transactions for both corporate and consumer users."
                 />
                <Details 
                 position="Python/AI Developer Intern" company="Tacticone"
